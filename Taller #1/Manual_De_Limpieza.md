@@ -55,12 +55,23 @@ Para realizar una limpieza segura y efectiva necesitarás:
 
 ---
 
-## 6. 🎥 Video de referencia
+## 6. 📝 Material de Apoyo
+- ### Libros
+    - Mantenimiento y reparación de un PC en red (7ª edición)
+    - Montaje, configuración, actualización y reparación del PC (Edición 2023)
+- ### Manuales
+    - [Manual de reparación y mantenimiento de computadoras](https://www.academia.edu/22566689/Manual_de_reparacion_y_mantenimiento_de_computadoras)
+    - [Manual de mantenimiento preventivo](https://www.academia.edu/31143070/Manual_de_mantenimiento_preventivo)
+    - [Manual de Armado y Reparación de PC](https://www.academia.edu/40227101/Manual_de_Armado_y_Reparaci%C3%B3n_de_PC)
+
+---
+
+## 7. 🎥 Video de referencia
 Puedes consultar el siguiente enlace para ver el proceso paso a paso:  
 [🔗 Ver tutorial en YouTube](https://youtu.be/95FtaaBvAbM)
 
 ---
-✍️ **Autores:** *Carlos Mauricio Blanco Valencia*
+✍️ **Autores:** *Carlos Mauricio Blanco Valencia*   
 
 ✍️ **Autores:** *Marvin Francisco Paz Linares*
 
